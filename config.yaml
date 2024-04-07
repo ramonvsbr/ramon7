@@ -33,7 +33,7 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
+  github: https://github.com/ramonvsbr
   #twitter: your-twitter-link
   #stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
@@ -44,7 +44,7 @@ params:
   # Site Author
   author: Ramon Vieira Souza
   # Author biography
-  bio: Futuro engenheiro agrônomo e ocioso
+  bio: Futuro engenheiro agrônomo e ansioso
   # Site Description, used in HTML meat
   description: Blog para falar
 
@@ -54,7 +54,7 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: true
+  enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
   enableComments: true
   # To enable comments, you may need to set `googleAnalytics`
