@@ -1,4 +1,4 @@
-baseURL: "https://ramon7.netlify.app"
+baseURL: https://ramon7.netlify.app
 languageCode: en-us
 title: ramon7
 theme: mini
