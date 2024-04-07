@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: "https://ramon7.netlify.app/"
 languageCode: pt-br
 title: ramon7
 theme: mini
@@ -13,7 +13,7 @@ permalinks:
 paginate: 3
 
 #googleAnalytics: your-google-analytics-id
-disqusShortname: your-disqus-shortname
+#disqusShortname: your-disqus-shortname
 
 # Hugo Configure Markup
 # More info: https://gohugo.io/getting-started/configuration-markup#
