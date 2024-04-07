@@ -1,6 +1,6 @@
 ---
 title: "Biodigestor sertanejo 👷"
-date: 2024-04-06T23:24:56-03:00
+date: "2024-04-06"
 draft: true
 tags:
     - biodigestor

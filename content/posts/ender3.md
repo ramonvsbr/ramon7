@@ -1,6 +1,6 @@
 ---
 title: "Ender3 🧑‍🔧"
-date: 2024-04-07T11:18:01-03:00
+date: "2024-04-06"
 draft: true
 tags: 
     - Impressão 3D
