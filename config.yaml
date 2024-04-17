@@ -2,6 +2,7 @@ baseURL: https://ramon7.netlify.app
 languageCode: en-us
 title: ramon7
 theme: mini
+buildDrafts: true
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
 defaultContentLanguage: en
