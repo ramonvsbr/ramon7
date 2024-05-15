@@ -23,9 +23,9 @@ markup:
     guessSyntax: true
     style: emacs
   tableOfContents:
-    endLevel: 3
+    endLevel: 4
     ordered: false
-    startLevel: 2
+    startLevel: 1
   # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
   goldmark:
     renderer:
@@ -47,7 +47,7 @@ params:
   # Author biography
   bio: Futuro engenheiro agrônomo e ansioso
   # Site Description, used in HTML meat
-  description: Blog para falar
+  description: Blog para relato de experiências e conteúdos
 
 
   ###########################################
@@ -67,7 +67,7 @@ params:
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
-  hiddenPostSummaryInHomePage: false
+  hiddenPostSummaryInHomePage: true
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: '' 
 

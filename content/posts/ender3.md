@@ -1,14 +1,14 @@
 ---
-title: "Ender3 🧑‍🔧"
+title: "🧑‍🔧 Ender3"
 date: "2024-04-06"
 draft: true
 tags: 
     - Impressão 3D
 ---
-## Sobre a Creality Ender-3
+# Sobre a Creality Ender-3
 É uma impressora 3D básica, sendo utilizada como porta de entrada para muito dos profissionais e makers que se interessam pela área da impressão 3D.
 
-## Como trocar o filamento PLA na Ender-3
+# Como trocar o filamento PLA na Ender-3
 Para trocar o filamento na Creality Ender-3 é necessário que você siga os seguintes passos.
 
 - Ligue a impressa;
