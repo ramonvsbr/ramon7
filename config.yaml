@@ -5,7 +5,7 @@ theme: mini
 buildDrafts: true
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: en
+defaultContentLanguage: pt
 
 hasCJKLanguage: true
 permalinks:
@@ -57,7 +57,7 @@ params:
   # To enable RSS, you could set `enableRSS: true`, default is `true`
   enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: false
   # To enable table of content, you could set `showToc: true`, default is `false`
@@ -69,7 +69,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: true
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
-  copyright: '' 
+  copyright: '© Direitos autorais 2024 ❤️ Ramon Viera Souza' 
 
   # Extra links in navigation
   links:
